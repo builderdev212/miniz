@@ -1,0 +1,13 @@
+{
+  "name": "miniz",
+  "version": "3.0.2",
+  "description": "Single C source file zlib-replacement library",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/builderdev212/miniz"
+  },
+  "frameworks": "arduino",
+  "platforms": "espressif32",
+  "headers": "miniz.h"
+}
